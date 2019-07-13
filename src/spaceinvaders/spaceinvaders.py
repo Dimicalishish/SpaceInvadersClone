@@ -10,7 +10,7 @@ class SpaceInvaders:
 
 class Settings:
     def __init__(self, size):
-            self.size = size
+        self.size = size
 
 
 if __name__ == "__main__":
